@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    reactStrictMode: true
-};
-
-module.exports = nextConfig;
+    // Remova toda a seção experimental se estiver vazia
+  };
+  
+  module.exports = nextConfig;
